@@ -3,4 +3,9 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="textprimitiva">PRIMITIVA</string>
+    <string name="actualizarPri">Actualizar</string>
+    <string name="texteuromillones">EUROMILLONES</string>
+    <string name="textestrella">ESTRELLAS</string>
 </resources>
